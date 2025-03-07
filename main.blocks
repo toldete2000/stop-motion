@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="P^QL`BLh!Ta2S5vGB,d}">8 batidas</variable><variable id="}(50.*1m/g|y.IL7pDap">parar tudo</variable><variable id="/I$MS;P#uoQP0WPcyOD.">valor</variable><variable id="IK6r(g?7Oe0=yZqfyTCx">list</variable></variables><block type="device_forever" id="AK7XewL1cfXvg1C1Yn!B" x="0" y="0"><statement name="HANDLER"><block type="music_playable_play_default_bkg" id="l:}l,l%Z)C|(1$+C{u?O"><field name="playbackMode">music.PlaybackMode.LoopingInBackground</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="QRzjYLUQ,8=Bf3uXg|T6" disabled-reasons="MANUALLY_DISABLED"><field name="melody">Melodies.Nyan</field></shadow><block type="device_builtin_melody_playable" id="YA_T8^J02,,BJ1l(RKDc"><field name="melody">Melodies.Nyan</field></block></value><next><block type="device_show_leds" id="Nlwu(,~_QNdHnXH#2J({"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . # . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="A|?=V@X%(,A.?p`bpdG+"><field name="LEDS">`
+        # # # # # 
+        # # . # # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="[GH%:$T;3:ZF,a07C}O4"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="`-MQ+UqrG@mjOiFbE4y7"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # . # # 
+        . # # # . 
+        # . # . #
+        `</field></block></next></block></next></block></next></block></next></block></statement></block></xml>
